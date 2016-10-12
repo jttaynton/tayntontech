@@ -1,0 +1,10 @@
+body {
+	background-color: #333333;
+	overflow: hidden;
+}
+
+#logo {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
